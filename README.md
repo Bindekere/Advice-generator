@@ -33,8 +33,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Advice-generator on frontend mentor](https://www.frontendmentor.io/challenges/advice-generator-app-QdUG-13db/hub/practice-with-restful-apis-frontend-mentor-challenge-3PZR62LAN4)
+- Live Site URL: [Advice-generator](https://advice-generation.netlify.app)
 
 ## My process
 
