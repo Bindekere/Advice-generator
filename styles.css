@@ -74,6 +74,6 @@ p{
 }
 
 /* Rotate only while the button is clicked */
-#dice{
+#dice:active{
     animation: rotateDice 0.5s ease-in-out;
 }
