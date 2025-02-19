@@ -68,3 +68,12 @@ p{
     text-overflow: ellipsis;
     overflow-y: auto; */
 }
+@keyframes rotateDice {
+    0% { transform: rotate(0deg); }
+    100% { transform: rotate(360deg); }
+}
+
+/* Rotate only while the button is clicked */
+#dice{
+    animation: rotateDice 0.5s ease-in-out;
+}
